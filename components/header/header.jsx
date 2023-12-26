@@ -1,5 +1,5 @@
 import Image from "next/image";
-import HeaderNav from "@/content/headerNabLink";
+import HeaderNav from "@/components/header/content/headerNabLink";
 import Link from "next/link";
 
 const Header = () => {
