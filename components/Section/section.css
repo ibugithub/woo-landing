@@ -1,6 +1,11 @@
 .section-container {
-  position: absolute;
-  top: -90px;
   width: 86%;
-  left: 5.5%;
+  margin: auto;
+}
+
+.section {
+  background-image: url('/images/sectionBg.png');
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position-y: center;
 }

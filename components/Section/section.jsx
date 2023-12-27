@@ -4,14 +4,14 @@ import Image from "next/image";
 
 const Section = () => {
   return (
-    <div id="" className="mt-32 relative">
-      <Image
+    <div id="" className="mt-32 relative section">
+      {/* <Image
         className="absolute"
         src="/images/sectionBg.png"
         alt="This is a section background image"
         width={1920}
         height={1110}
-      />
+      /> */}
 
       <div className="flex flex-col section-container">
         <div className="flex">
