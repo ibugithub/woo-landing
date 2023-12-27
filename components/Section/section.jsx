@@ -25,7 +25,7 @@ const Section = () => {
 
             <div className="mt-14 w-1/2 text-white">
               <h1 className="text-2xl  font-medium">Develop Without Limits</h1>
-              <p>
+              <p className="my-4">
                 WooCommerce is developer friendly, too. Built with a REST API,
                 WooCommerce is scalable and can integrate with virtually any
                 service. Design a complex store from scratch, extend a store for
@@ -48,7 +48,7 @@ const Section = () => {
               <h1 className="text-2xl  font-medium">
                 Know our Global Community
               </h1>
-              <p>
+              <p className="my-4">
                 WooCommerce is one of the fastest-growing eCommerce communities.
                 We’re proud that the helpfulness of the community and a wealth
                 of online resources are frequently cited as reasons our users

@@ -2,6 +2,7 @@ import Header from "@/components/header/header"
 import Hero from "@/components/hero"
 import FeatureSection from "@/components/feature-section/feature-section"
 import Section from "@/components/Section/section"
+import Testimoial from "@/components/testimonial"
 
 export default function Home() {
   return (
@@ -10,6 +11,7 @@ export default function Home() {
     <Hero />
     <FeatureSection />
     <Section />
+    <Testimoial />
     </>
   )
 }
