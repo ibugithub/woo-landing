@@ -5,7 +5,7 @@ import Section from "@/components/Section/section"
 import Testimoial from "@/components/testimonial.jsx/testimonial"
 import People from "@/components/people/people"
 import Cta from "@/components/cta-section"
-import Footer from "@/components/footer"
+import Footer from "@/components/footer/footer"
 
 export default function Home() {
   return (
