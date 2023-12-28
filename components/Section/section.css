@@ -1,0 +1,11 @@
+.section-container {
+  width: 86%;
+  margin: auto;
+}
+
+.section {
+  background-image: url('/images/sectionBg.png');
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position-y: center;
+}

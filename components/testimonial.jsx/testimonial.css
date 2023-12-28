@@ -1,0 +1,13 @@
+.tesQContainer{
+  background-image: url('/images/testimonial-quote-bg.png');
+  background-size: 100%;
+  background-repeat: no-repeat; 
+}
+
+.testiBg {
+  background-image: url('/images/testimonial-bg.png');
+  background-size: 100%;
+  background-repeat: no-repeat;
+  height: 760px;
+  padding-top: 30px;
+}
